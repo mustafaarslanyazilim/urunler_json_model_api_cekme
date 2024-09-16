@@ -1,5 +1,6 @@
 # urunler_json_model_api_cekme
 
+--SingleChildScrollView--GestureDetector--BoxDecoration--BorderRadius--JSON-API-ListView--separatorBuilder--Expanded--
 ---------------------------------------------
 ![image](https://github.com/user-attachments/assets/fdad370a-d1ca-4829-80d6-ad998449474a)
 -----------------------------------------------
