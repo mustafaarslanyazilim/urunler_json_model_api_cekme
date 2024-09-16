@@ -1,16 +1,13 @@
 # urunler_json_model_api_cekme
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---------------------------------------------
+![image](https://github.com/user-attachments/assets/fdad370a-d1ca-4829-80d6-ad998449474a)
+-----------------------------------------------
+---------------------------------------------------
+![image](https://github.com/user-attachments/assets/0a763535-ef40-4b59-806e-361c5d6a6c84)
+---------------------------------------------------
+------------------------------------------------
+![image](https://github.com/user-attachments/assets/679ba0fe-cce0-4871-b7f9-fb78a739e33e)
+-------------------------------------------------------
+--------------------------------------------------------
+![image](https://github.com/user-attachments/assets/8773ed52-4714-462e-b0f5-18cbd3fd6c73)
